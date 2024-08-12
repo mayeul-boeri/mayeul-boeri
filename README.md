@@ -1,12 +1,13 @@
 [![](https://visitcount.itsvg.in/api?id=mayeul-boeri&icon=2&color=12)](https://visitcount.itsvg.in)
 
+### Mayeul BOERI
 ---
 
 # 💫 A propos de moi:
 🧑‍🎓 Etudiant en Infra et Reseaux<br>🛡️ Expert cyber en devenir<br>👨‍💻 Developpeur a mes heures perdues<br><br>🌲 Souvent dans la nature<br>💪 Parfois sportif 
 
 
-## 🌐 Reseaux:
+# 🌐 Reseaux:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayeul-boeri-a52492253) 
 
 # 💻 Stacks:
@@ -15,10 +16,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=mayeul-boeri&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mayeul-boeri&theme=vue-dark&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayeul-boeri&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
-
-
-
-
-
-
 
