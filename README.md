@@ -1,6 +1,8 @@
-<div sytle="display: flex; flex-direction: row; justify-content: space-between;">
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
     <h3>Mayeul BOERI</h3>
-  <img src="https://visitcount.itsvg.in/api?id=mayeul-boeri&icon=2&color=12" />
+    <h3>
+        <img src="https://visitcount.itsvg.in/api?id=mayeul-boeri&icon=2&color=12" />
+    </h3>
 </div>
 
 ---
