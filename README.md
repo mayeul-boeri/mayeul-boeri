@@ -8,8 +8,8 @@
 
 
 # 📊 Stats GitHub:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mayeul-boeri?cardType=github&theme=github-dark&showIcons=false&preferLogin=true&Background=0D1117&Title=E6EDF3&Border=E6EDF3&Text=E6EDF3&Ring=E6EDF3)](https://git.io/awesome-stats-card)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mayeul-boeri&theme=dark&hide_border=false)<br/>
+[![](https://github-readme-stats.vercel.app/api?username=mayeul-boeri&show_icons=true&bg_color=0d1117&title_color=e6edf3&text_color=e6edf3&icon_color=e6edf3&border_color=e6edf3&locale=fr&rank_icon=github#gh-dark-mode-only)]()
+[![](https://github-readme-stats.vercel.app/api?username=mayeul-boeri&show_icons=true&theme=default#gh-light-mode-only)]()
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayeul-boeri&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
 
 # 🌐 Reseaux:
