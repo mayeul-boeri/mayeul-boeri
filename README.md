@@ -1,4 +1,4 @@
-<h3>Mayeul BOERI <img src="https://visitcount.itsvg.in/api?id=mayeul-boeri&icon=2&color=12" /></h3>
+<h3>Mayeul BOERI <img src="https://visitcount.itsvg.in/api?id=mayeul-boeri&label=Nombre%20de%20vues&color=9&icon=5" /></h3>
 
 <br>
 
