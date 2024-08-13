@@ -8,7 +8,7 @@
 
 
 # 📊 Stats GitHub:
-[![](https://github-readme-stats.vercel.app/api?username=mayeul-boeri&show_icons=true&bg_color=0d1117&title_color=e6edf3&text_color=e6edf3&icon_color=e6edf3&border_color=e6edf3&locale=fr&rank_icon=github#gh-dark-mode-only)]()
+[![](https://github-readme-stats.vercel.app/api?username=mayeul-boeri&show_icons=true&bg_color=0d1117&title_color=e6edf3&text_color=e6edf3&icon_color=e6edf3&border_color=e6edf3&locale=fr&rank_icon=github&disable_animations=true#gh-dark-mode-only)]()
 [![](https://github-readme-stats.vercel.app/api?username=mayeul-boeri&show_icons=true&theme=default#gh-light-mode-only)]()
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayeul-boeri&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
 
