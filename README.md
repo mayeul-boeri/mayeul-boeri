@@ -1,9 +1,4 @@
-<table width="100%" style="border: none;">
-  <tr>
-    <td align="left"><h3>Mayeul BOERI</h3></td>
-    <td align="right"><h3><img src="https://visitcount.itsvg.in/api?id=mayeul-boeri&icon=2&color=12" /></h3></td>
-  </tr>
-</table>
+<h3>Mayeul BOERI             <img src="https://visitcount.itsvg.in/api?id=mayeul-boeri&icon=2&color=12" /></h3>
 
 <br>
 
